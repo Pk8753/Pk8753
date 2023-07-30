@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pankaj Kumar QA at Thoughtworks
+- 👋 Hi, I’m Pankaj Kumar QA at Palo Alto Networks
 - 👀 I’m interested in writing programs which can help others in any sort of ways.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any thing that involves my learning ang growth
